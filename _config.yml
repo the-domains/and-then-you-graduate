@@ -1,0 +1,28 @@
+name: And Then You Graduate
+favicon: null
+layout_spectrum: 0.7520146446768194
+typography_spectrum: 0.9704332237597555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.032137899892404675
+  lightness: 0.6612148457206786
+  saturation: 0.6090274872258306
+  rhythmicContrast: 0.8854847636539489
+purpose: []
